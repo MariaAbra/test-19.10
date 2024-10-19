@@ -1,0 +1,10 @@
+C:\маша\Hello world\Write\bin\Debug\Write.exe.config
+C:\маша\Hello world\Write\bin\Debug\Write.exe
+C:\маша\Hello world\Write\bin\Debug\Write.pdb
+C:\маша\Hello world\Write\obj\Debug\Write.csproj.AssemblyReference.cache
+C:\маша\Hello world\Write\obj\Debug\Write.csproj.SuggestedBindingRedirects.cache
+C:\маша\Hello world\Write\obj\Debug\Write.Properties.Resources.resources
+C:\маша\Hello world\Write\obj\Debug\Write.csproj.GenerateResource.cache
+C:\маша\Hello world\Write\obj\Debug\Write.csproj.CoreCompileInputs.cache
+C:\маша\Hello world\Write\obj\Debug\Write.exe
+C:\маша\Hello world\Write\obj\Debug\Write.pdb
